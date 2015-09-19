@@ -2,7 +2,7 @@
 
 ### A general overview
 
-![git-overview](../images/git-overview.png)
+![git-overview](images/git-overview.png)
 
 ### Terminology
 
@@ -46,7 +46,7 @@ NOTE: 99.8% on serious projects are on some version control system. Learn it, yo
 * You can monitor work being done on a code base
 * You will be able to review changes before merging them into your code
 
-![git-multi-users](../images/git_multi.png)
+![git-multi-users](images/git_multi.png)
 
 And much more!
 
