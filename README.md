@@ -6,6 +6,8 @@
 
 ### Terminology
 
+Repository == All the resources of a project. (Code, Images, Stylesheets, Documentation etc.) 
+
 ##### Github 
 
 * **Forking** - Creating a copy remote repository. You will have the whole code and can make any changes you please, changes will not affect the original remote repository. 
