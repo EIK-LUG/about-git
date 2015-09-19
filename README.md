@@ -49,3 +49,9 @@ NOTE: 99.8% on serious projects are on some version control system. Learn it, yo
 ![git-multi-users](../images/git_multi.png)
 
 And much more!
+
+##### On IDE integration 
+  
+Most good IDEs will have some form of integration with VCSs. However the exact same principles apply for both using the command line and using an IDE for version control.
+
+JetBrain's IDEs (IntelliJ, PyCharm, WebStorm, PhpStorm etc.) all have this feature and usage is easy, just right click and go to "git" in the drop down menu.
