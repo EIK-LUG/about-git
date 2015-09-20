@@ -52,8 +52,16 @@ NOTE: 99.8% on serious projects are on some version control system. Learn it, yo
 
 And much more!
 
-##### On IDE integration 
+##### On IDE integration and GUI tools
   
 Most good IDEs will have some form of integration with VCSs. However the exact same principles apply for both using the command line and using an IDE for version control.
 
 JetBrain's IDEs (IntelliJ, PyCharm, WebStorm, PhpStorm etc.) all have this feature and usage is easy, just right click and go to "git" in the drop down menu.
+
+Also there are a variety of graphical user interface clients with tight integration between git and github:
+
+[GUI clients](https://git-scm.com/download/gui/linux)
+
+Recommended: [Official Github Client](https://desktop.github.com/) (windows only)
+
+Note: These might be overkill if you have an IDE with git integration.
