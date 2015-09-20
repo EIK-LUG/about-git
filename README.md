@@ -20,15 +20,15 @@ Repository == All the resources of a project. (Code, Images, Stylesheets, Docume
 Note: You need to have git installed
 
 * **Cloning** - This will create a local repository copy of the remote repository, which can be edited and then the changes pushed to the remote repository.
-    * How to clone - "git clone https_clone_url" https_clone_url can be gotten from the repositories GitHub page.
+    * How to clone - **"git clone https_clone_url"** https_clone_url can be gotten from the repositories GitHub page.
 * **Adding** - This will add a file/folder to be tracked by git. If you just add a new file into your local repository, then it will NOT be tacked by git, until you add it.
-    * How to add - "git add file_or_folder_name" or often "git add -a" which will add all files to be tracked
+    * How to add - **"git add file_or_folder_name"** or often **"git add -a"** which will add all files to be tracked
 * **Committing** - This will stage a changed or new file/folder for pushing back to the remote repository.
-    * How to commit - "git commit file_or_folder_name" or often "git commit -a" which will commit all changes
-* **Push** - This will attempt to push all files and folders that are staged for pushing to the remote repository. It might fail if there are changes in the remote repository that are not in your local repository, then just "git pull".
-    * How to Push - "git push -u origin master"
+    * How to commit - **"git commit file_or_folder_name"** or often **"git commit -a"** which will commit all changes
+* **Push** - This will attempt to push all files and folders that are staged for pushing to the remote repository. It might fail if there are changes in the remote repository that are not in your local repository, then just **"git pull"**.
+    * How to Push - **"git push -u origin master"**
 * **Pull** - This will pull any changes in the remote repository that are not in your local repository into your local repository.
-    * How to pull - "git pull"
+    * How to pull - **"git pull"**
     
 ### What for? (basic version)
 
